@@ -1,0 +1,12 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+book_flight.py	../book_flight.py	1;"	kind:file	line:1
+findCheapest	../book_flight.py	/^def findCheapest(flights):$/;"	kind:function	line:33
+findShortest	../book_flight.py	/^def findShortest():$/;"	kind:function	line:28
+getFlights	../book_flight.py	/^def getFlights(date, fro, to, oneWay, ret):$/;"	kind:function	line:6
+main	../book_flight.py	/^def main():$/;"	kind:function	line:44
+parseDate	../book_flight.py	/^def parseDate(date):$/;"	kind:function	line:22
